@@ -14,6 +14,12 @@ The goal is to analyze user behavior across the product lifecycle, focusing on:
 
 ---
 
+## 📊 Dashboard Preview
+
+![dashboard](docs/dashboard.png)
+
+---
+
 ## 🧠 Business Context
 
 The simulated product is a **B2C fintech**, where users can:
